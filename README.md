@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Hazarral! 👋
 
-<!--
-**Hazarral/Hazarral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 CS Student | 🎨 Digital Artist | 🎮 Indie Game Developer
 
-Here are some ideas to get you started:
+I am a multidisciplinary developer walking the line between low-level systems and high-level creativity. I don't just write code; I build worlds—both technically and narratively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Current Focus
+**Developing [Denos: Descent]**
+I am the Lead Developer, Artist, and Writer for *Denos: Descent*. It's a Top-Down Roguelike built in **Godot**, focusing on complex systems and deep lore.
+* *Status:* In Active Development
+* *Engine:* Godot (GDScript)
+
+---
+
+### 🛠️ Technical Stack
+
+I specialize in writing performant, complex logic and building robust systems. While I can use Python for ML tasks, my heart (and expertise) belongs to strictly typed, low-level languages.
+
+| **Core Proficiency** (I write complex systems here) | **Tools & Engines** | **Utility** (I use these when I have to) |
+| :--- | :--- | :--- |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) **C++** | ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine&logoColor=478cbf) **Godot** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) **Python** (ML/Data Only) |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) **C** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) **Git** | |
+| ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf.svg?style=flat&logo=godot-engine&logoColor=white) **GDScript** | | |
+
+---
+
+### 🖌️ The Creative Side
+
+Code is only half the picture. I am also a digital artist and narrative designer.
+
+* **Art:** I do character design and concept art. You can find my work on **[Twitter](YOUR TWITTER LINK)**.
+* **Writing:** I enjoy crafting extensive lore and world-building.
+    * *Fun Fact:* I am a published **SCP Foundation** author. (Yes, it survived the voting process). [Read my entry here](LINK TO YOUR SCP).
+
+---
+
+### 📫 Connect with me
+<a href=https://x.com/hazarral_art>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+![Hazarral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazarral&show_icons=true&theme=dark)
