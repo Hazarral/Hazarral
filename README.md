@@ -30,9 +30,9 @@ I specialize in writing performant, complex logic and building robust systems. W
 
 Code is only half the picture. I am also a digital artist and narrative designer.
 
-* **Art:** I do character design and concept art. You can find my work on **[Twitter](YOUR TWITTER LINK)**.
+* **Art:** I do character design and character art. You can find my work on **[Twitter](https://x.com/hazarral_art)**.
 * **Writing:** I enjoy crafting extensive lore and world-building.
-    * *Fun Fact:* I am a published **SCP Foundation** author. (Yes, it survived the voting process). [Read my entry here](LINK TO YOUR SCP).
+    * *Fun Fact:* I am a published **SCP Foundation** author. (Yes, it survived the voting process, and it is on the VN branch). [Read my entry here](http://scp-int.wikidot.com/scp-040-vn).
 
 ---
 
@@ -40,4 +40,4 @@ Code is only half the picture. I am also a digital artist and narrative designer
 <a href=https://x.com/hazarral_art>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-![Hazarral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazarral&show_icons=true&theme=dark)
+!![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hazarral&theme=dark&hide_border=true)
