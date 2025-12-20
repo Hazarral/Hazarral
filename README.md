@@ -1,12 +1,12 @@
-# Hi there, I'm Hazarral! 👋
+# Hi there, I'm Hazarral
 
-### 👨‍💻 CS Student | 🎨 Digital Artist | 🎮 Indie Game Developer
+### CS Student | Digital Artist | Indie Game Developer
 
-I am a multidisciplinary developer walking the line between low-level systems and high-level creativity. I don't just write code; I build worlds—both technically and narratively.
+I am a full-stack developer for my game Denos: Descent. My roles include programmer, artist, writer, as well as manager.
 
 ---
 
-### 🔭 Current Focus
+### Current Focus
 **Developing [Denos: Descent]**
 I am the Lead Developer, Artist, and Writer for *Denos: Descent*. It's a Top-Down Roguelike built in **Godot**, focusing on complex systems and deep lore.
 * *Status:* In Active Development
@@ -14,7 +14,7 @@ I am the Lead Developer, Artist, and Writer for *Denos: Descent*. It's a Top-Dow
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 I specialize in writing performant, complex logic and building robust systems. While I can use Python for ML tasks, my heart (and expertise) belongs to strictly typed, low-level languages.
 
@@ -26,9 +26,9 @@ I specialize in writing performant, complex logic and building robust systems. W
 
 ---
 
-### 🖌️ The Creative Side
+### The Creative Side
 
-Code is only half the picture. I am also a digital artist and narrative designer.
+I am also a digital artist and narrative designer.
 
 * **Art:** I do character design and character art. You can find my work on **[Twitter](https://x.com/hazarral_art)**.
 * **Writing:** I enjoy crafting extensive lore and world-building.
