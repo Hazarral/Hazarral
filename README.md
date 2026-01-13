@@ -8,7 +8,7 @@ I am a full-stack developer for my game Denos: Descent. My roles include program
 
 ### Current Focus
 **Developing [Denos: Descent]**
-I am the Lead Developer, Artist, and Writer for *Denos: Descent*. It's a Top-Down Roguelike built in **Godot**, focusing on complex systems and deep lore.
+I am the Lead Developer, Artist, and Writer for *Denos: Descent*. It's a Top-Down Roguelike built in **Godot**, focusing on scalable modular systems and engaging lore.
 * *Status:* In Active Development
 * *Engine:* Godot (GDScript)
 
@@ -30,6 +30,5 @@ I specialize in writing performant, complex logic and building robust systems. W
 
 I am also a digital artist and narrative designer.
 
-* **Art:** I do character design and character art. You can find my work on **[Twitter](https://x.com/hazarral_art)**.
+* **Art:** I do character design and character art. You can find some of my work on **[Twitter](https://x.com/hazarral_art)**.
 * **Writing:** I enjoy crafting extensive lore and world-building.
-    * *Fun Fact:* I am a published **SCP Foundation** author. (Yes, it survived the voting process, and it is on the VN branch). [Read my entry here](http://scp-int.wikidot.com/scp-040-vn).
