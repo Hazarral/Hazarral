@@ -1,6 +1,6 @@
 # Hi there, I'm Hazarral
 
-### CS Student | Digital Artist | Indie Game Developer
+### CS Student | Digital Artist | Indie Game Developer | Creative Writer
 
 I am a developer for my game Denos: Descent. My roles include programmer, artist, writer, as well as manager.
 
