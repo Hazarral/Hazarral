@@ -15,11 +15,14 @@ I am the Lead Developer, Artist, and Writer for *Denos: Descent*. It's a Top-Dow
 ---
 
 ### Featured Projects
-#### 🟢 [NFA to DFA Visualizer](link-to-repo)
+#### 🟢 NFA to DFA Visualizer
 **A real-time state machine converter and physics-based graph visualizer.**
-* **The Logic:** Implemented the subset construction algorithm to transform Non-deterministic Finite Automata into Deterministic ones. The input rule is strict due to small scope (this started as a university project).
-* **The Tech:** Built from the ground up using **C++17**, **OpenGL (GLFW/GLAD)**, and **Dear ImGui**. I also learnt how to use **CMake** in this project :3
-* **Key Feature:**
+***Private repository, can provide exe when required.***
+##### **The Logic**
+Implemented the subset construction algorithm to transform Non-deterministic Finite Automata into Deterministic ones. The input rule is strict due to small scope (this started as a university project).
+##### **The Tech**
+Built from the ground up using **C++17**, **OpenGL (GLFW/GLAD)**, and **Dear ImGui**. I also learnt how to use **CMake** in this project :3
+##### **Key Feature**
 - Allows manual input or txt based input with strict parser
 - Features a physics-based node layout system to prevent state overlap during complex transformations
 - Playback support for NFA, allowing the user to view the intermediate state of the DFA and play the construction automatically or jump forward/backward intime
